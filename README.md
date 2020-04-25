@@ -1,12 +1,12 @@
 # RatesAPITesting
 Foreign currency exchange rates api with currency conversion
-#Assessment
+# Assessment
 Create a JAVA & Cucumber based framework structure to Test Rates API
 
-Assumption made:
+# Assumption made:
 API  responses are considered as correct response to assert the response body.
 
-#Predefined JAVA libraries & tool:
+# Predefined JAVA libraries & tool:
 
 Java
 log4j
