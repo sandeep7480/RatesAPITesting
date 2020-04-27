@@ -26,6 +26,7 @@ Eclipse
 
 
 #Step to start
-1) Download project on your local eclipse environment
-2) Runs As-Maven Build
-3) Run As-Maven test
+1) Download project on local machine and import project in eclipse environment
+2) Run the project-Runs As-Maven Build
+3) Run the test using -Run As-Maven test
+4) Extent Report will be generated at folder path target-cucumber-report after completion of test run.
