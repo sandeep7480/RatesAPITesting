@@ -14,6 +14,8 @@ log4j
 
 Cucumber
 
+Extent Report
+
 REST-Assured
 
 Junit
